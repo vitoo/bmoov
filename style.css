@@ -37,7 +37,6 @@ h1
     font-weight: bold;
 }
 
-
 h2
 {
     text-align: center;
@@ -55,15 +54,16 @@ p
 */
 ul.social  {
 	 padding:0;
-	 margin:0 auto;
+	 margin:100px auto;
 	 width: 550px;
 	 display: block;
-	 list-style-type:none;	 
+	 list-style-type:none; 
+	 padding-bottom: 100px;
 }
 .social  li {
 	float: left; 
 	margin: 0 30px;
 }
 .social img{
-	width: 60px;
+	width: 76px;
 }
